@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+neo4j
+pydantic
+pydantic-settings
+python-dotenv
+pytest
+httpx
